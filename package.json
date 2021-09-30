@@ -1,0 +1,23 @@
+{
+  "name": "assignment1_cwd3201",
+  "version": "1.0.0",
+  "description": "A Story About Tying Flies",
+  "main": "script.js",
+  "scripts": {
+    "lite": "lite-server",
+    "start": "npm run lite"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lundydaniel/assignment1_cwd3201.git"
+  },
+  "author": "Daniel Lundy",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lundydaniel/assignment1_cwd3201/issues"
+  },
+  "homepage": "https://github.com/lundydaniel/assignment1_cwd3201#readme",
+  "devDependencies": {
+    "lite-server": "^2.6.1"
+  }
+}
